@@ -1,0 +1,45 @@
+# ---- Unreal Engine auto-generated folders (never version these) ----
+Binaries/
+Intermediate/
+DerivedDataCache/
+Build/
+Saved/
+Content/
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# ---- Platform-specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Packaged builds ----
+Packaged/
+
+# ---- Heavy content you likely don't need in the portfolio repo ----
+# Based on your project's actual folder sizes (marketplace/template packs)
+Content/ResearchMegaPack/
+Content/4K_WoodFlooring/
+Content/StarterContent/
+Content/MilitaryWeapSilver/
+Content/FPS_Weapon_Bundle/
+Content/SCK_Casual01/
+
+# Check what's inside these before deciding — if they're your own work, remove
+# these lines and keep them tracked. If they're bulky downloaded content, leave excluded.
+# Content/Assets/
+# Content/Mixamo/
+
+# ---- Large binary asset types (only if excluding wholesale) ----
+# *.fbx
+# *.wav
+# *.png (careful — this may catch small UI icons too)
+
+# ---- Config that's user/machine specific ----
+Config/DefaultEditorPerProjectUserSettings.ini
