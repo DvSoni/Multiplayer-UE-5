@@ -7,7 +7,7 @@ using C++ and Blueprints, focused on networked gameplay systems.
 > Unreal Engine C++ Developer course on Udemy, and was extended with
 > original systems and design choices (see "What I Built" below).
 
-![Gameplay Screenshot](docs/screenshot1.png)
+![Gameplay Screenshot](docs/screenshots)
 
 
 🎥[![Watch the gameplay walkthrough](Linkdin post)](https://www.linkedin.com/posts/divy-soni-20ds089_unrealengine5-unrealengine-epicgames-activity-7097957598536118272-v0DM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXpfdABO7tlOKoa02gH4e21BRP82jUJJI0)
