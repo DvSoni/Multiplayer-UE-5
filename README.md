@@ -1,4 +1,4 @@
-# H.E.V.A
+# Multiplayer game
 
 A multiplayer [genre — e.g. third-person shooter / battle royale] built in Unreal Engine
 using C++ and Blueprints, focused on networked gameplay systems.
@@ -37,7 +37,7 @@ Beyond the course foundation, I designed and implemented the following systems m
 - **Engine:** Unreal Engine 5
 - **Languages:** C++, Blueprints
 - **Networking:** [e.g. Unreal's built-in replication / Steam Online Subsystem / EOS]
-- **Platform:** [Windows / etc.]
+- **Platform:** [Windows ]
 
 
 ## Project Structure
